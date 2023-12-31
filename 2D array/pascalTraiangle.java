@@ -37,3 +37,4 @@ public class pascalTraiangle {
         printMatrix(ans); 
     }
 }
+//-------------------------------------End Of Code---------------------------------------//
